@@ -1,0 +1,13 @@
+{
+    title: "Why I Hate nodejs",
+    abstract: "talk description",
+    speaker : {
+        name: "Sam Reghenzi",
+        bio: "something about yourself",
+        twitter: "sammyrulez",
+        blog: "http://sammyrulez.com",
+        photo: "your photo",
+        slideshare: "sammyrulez",
+        country: "Italy"
+    }
+}
