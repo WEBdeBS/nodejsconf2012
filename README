@@ -8,7 +8,7 @@ And what better way to submit a talk proposal than via GitHub!
 
 1. Fork this repository
 2. Copy the sample folder `example/` to `your_name-talk_name`
-3. Edit the `porposal.json` file and type a good description about your talk
+3. Edit the `proposal.json` file and type a good description about your talk
    and about yourself
 4. Create a pull request of your fork
 
