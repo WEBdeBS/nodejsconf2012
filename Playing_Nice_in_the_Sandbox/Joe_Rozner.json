@@ -1,13 +1,12 @@
 {
-    title: "Playing Nice in the Sandbox",
-    abstract: "Running untrusted code is always a hairy problem in programming environments. This talk will explore some of the potential problems with running untrusted code, describe various methods of sandboxing to defeat them, and compare these methods for running untrusted code more secure in a Nodejs environment.",
+    title: "Playing Nice in the Node.js Sandbox",
+    abstract: "Running untrusted code is always a hairy problem in programming environments. This talk will explore some of the potential problems with running untrusted code such as: resource starvation, cpu starvation, accessing unsafe functions, and data leaking. After, it will describe various methods of sandboxing to defeat these potential problems and compare these methods for running untrusted code more securely in a Nodejs environment.",
     speaker : {
         name: "Joe Rozner",
-        bio: "something about yourself",
+        bio: "Joe Rozner is a software engineer and security enthusiast who enjoys making and breaking software. He regularly competes in hackathons, security wargames, and has spent the last three years running the Open Capture the Flag competition at DEFCON. When not sitting in front of a computer he can usually be found out snowboarding, skateboarding, or wandering the streets of Los Angeles.",
+        blog: "http://www.deadbytes.net.",
         twitter: "@jronzer",
-        blog: "",
-        photo: "your photo",
-        slideshare: "your slideshare profile",
+        photo: "joe.jpg",
         country: "United States"
     }
 }
