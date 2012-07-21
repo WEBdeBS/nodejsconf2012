@@ -1,0 +1,13 @@
+{
+    title: "Windows Azure <3 Node.js",
+    abstract: "The current wave of Windows Azure has great improvements for Node developers. After a short sample of how git deployment to Windows Azure Websites works, you'll see how to build scalable web applications using Windows Azure Service Bus. You'll see how to build loosly coupled web applications in no time.",
+    speaker : {
+        name: "Thorsten Hans",
+        bio: "Thorsten is a passionate software developer, who's addicted to any kind of source code. Since more than 5 years he's mainly focusing on SharePoint development using first citizen languages such as C# or JavaScript. In addition to SharePoint and .NET. He's also very interested in dynamic languages and the server side JavaScript framework Node.js. He is a well-known speaker, author and blogger from Germany. For his community contributions Microsoft has awarded Thorsten as a SharePoint MVP in 2011 and 2012. Thorsten is sharing many of his ideas and thoughts on his public github profile at https://www.github.com/ThorstenHans or on his blog at http://www.dotnet-rocks.de.",
+        twitter: "@ThorstenHans",
+        blog: "http://www.dotnet-rocks.de",
+        photo: "your photo",
+        slideshare: "N/A",
+        country: "Germany"
+    }
+}
