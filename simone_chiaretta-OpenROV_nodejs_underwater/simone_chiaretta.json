@@ -1,0 +1,13 @@
+{
+    title: "OpenROV: Node.js Underwater",
+    abstract: "OpenROV is a OpenSource underwater vehicle, remotely operated from a standard browser via a Node.js application running on an embedded linux board (the BeagleBone) and connected to a webcam and an Arduino. In this session I'm going to tell you some insights on how the ROV is put together, mainly focusing on the software component, and if we find a pool (or a big enough fountain) I might also do a live demonstration.",
+    speaker : {
+        name: "Simone Chiaretta",
+        bio: "Simone Chiaretta is a web developer with more than 15 years of experience developing sites and applications with different technologies, mainly .NET. Since a few years he got interested in the OpenHardware movement, whose most prominent representative is Arduino, ",
+        twitter: "simonech",
+        blog: "http://codeclimber.net.nz",
+        photo: "http://www.gravatar.com/avatar/444625287c652a4e31f4a271905b713a?size=150",
+        slideshare: "http://www.slideshare.net/simonech",
+        country: "Belgium"
+    }
+}
