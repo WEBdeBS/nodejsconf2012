@@ -1,0 +1,13 @@
+{
+    "title": "Making \"Things\" that work with us",
+    "abstract": "In the \"Internet of Things\" (IoT) vision the physical world blends with virtual one, while machine-to-machine interaction improve our daily life. Clearly, how these virtual objects are exposed to us is critical, so that their user interface must be designed to support the easiness of usage that is driven by the users’ needs, which is different from what machines requires. These two requirements must be solved, and an integrated solution should emerge, if we want to bring the IoT to the 50 billions network that is predicted to became in the next years. In this talk, you will see how these requirements cannot be met by the same communication protocol, as the user interfaces dictates a way of communication that is no suitable for the \"machines\". We will analyze what are the state-of-art protocols for both machines and users, and finally we will propose a nodejs based solution to solve this problem.",
+    "speaker" : {
+        "name": "Matteo Collina",
+        "bio": "I’m a software engineer with a passion for coding, distributed architecture and agile methodologies. I’ve worked across a wide range of technologies (Java, Ruby, Javascript, Node.js) applying them to various industries (bank, turism, real estate). Last year I enrolled in a Ph.D. program with a project on operation transformation, the real time web, and the Internet of Things.",
+        "twitter": "matteocollina",
+        "blog": "matteocollina.com",
+        "photo": "http://gravatar.com/avatar/c3fc7370bc0951fba944b7b8cac5b9cc?s=200",
+        "slideshare": "matteocollina",
+        "country": "Italy"
+    }
+}
