@@ -1,5 +1,5 @@
 {
-    title: "How NodeJS meets Windows Azure in the real world: the Save The Mom user case",
+    title: "How NodeJS meets Windows Azure in the real world: the Save The Mom use case",
     abstract: "come and learn how an Open Sorce and Linux based solution, written without using any Microsoft technology can take advantage of every service available on Windows Azure, without any major lock-in",
     speaker : {
         name: "Luciano Colosio",
