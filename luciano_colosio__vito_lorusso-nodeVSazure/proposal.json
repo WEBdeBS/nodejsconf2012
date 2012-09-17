@@ -1,0 +1,22 @@
+{
+    title: "How NodeJS meets Windows Azure in the real world: the Save The Mom use case",
+    abstract: "We'll show you how a small italian startup leveraged on node.js and it's asynchronous and event driven nature for a scalable cloud based architecture and how it takes advantage of managed services available on Windows Azure, without any major lock-in",
+    speaker : {
+        name: "Luciano Colosio",
+        bio: "Save the mom",
+        twitter: "unlucio",
+        blog: "no blog",
+        photo: ":)",
+        slideshare: "http://www.slideshare.net/unlucio",
+        country: "Italy"
+    },
+ speaker : {
+        name: "Vito Lorusso",
+        bio: "microsoft",
+        twitter: "your twitter account",
+        blog: "your blog url",
+        photo: "your photo",
+        slideshare: "your slideshare profile",
+        country: "your living country"
+    }
+}
