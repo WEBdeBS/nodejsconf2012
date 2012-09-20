@@ -1,0 +1,10 @@
+{
+	title: "binb: a competitive, multiplayer, realtime guess the song game",
+	abstract: "This talk will cover the key features and the technical implementation details of binb (http://binb.jit.su), a web game i made to get familiar with Node.js",
+	speaker : {
+	  name: "Luigi Pinca",
+	  bio: "After graduation i worked as a software developer in the field of e-learing for the University for Foreigners of Perugia.\nI started playing with Node.js during christmas holidays of 2011.\nI'm a Geek, an open source enthusiast, a music lover.\nI like trekking and mountain biking.",
+	  photo: "http://www.gravatar.com/avatar/51d2d5c50f60915c3bc33a52478eb483.png",
+	  country: "Italy"
+	}
+}
