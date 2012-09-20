@@ -1,0 +1,13 @@
+{
+    title: "talk title",
+    abstract: "talk description",
+    speaker : {
+        name: "your full name",
+        bio: "something about yourself",
+        twitter: "your twitter account",
+        blog: "your blog url",
+        photo: "your photo",
+        slideshare: "your slideshare profile",
+        country: "your living country"
+    }
+}
