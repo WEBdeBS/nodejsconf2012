@@ -1,0 +1,20 @@
+{
+    "title": "Distributed Chess Engine",
+    "abstract": "Current day implementations of Chess Engines are restricted in the number of moves they can 'think' ahead due to the limitations in processing power. Machine learning, neural networks and genetic programming can be augmented by implementing them in a highly distributed approach using multiple instances on a Cloud PaaS. In this talk we are going to present to you an example of a distributed Chess Engine implemented using NodeJS.",
+    "speaker": [
+        {
+            "name": "Gautham Badhrinathan",
+            "bio": "Gautham is currently doing his bachelors in engineering in BITS Pilani, Dubai Campus. He is planning to do masters in a cloud computing related field. He is interested in developing web services using NodeJS and has been working on the platform for more than 6 months. He has taken part in various programming competitions in the national and international level and has won several awards. He has also taken part in organizing a couple of programming related events in the university level.",
+            "facebook": "GotEmB",
+            "photo": "https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/561694_10151193435146282_316524307_n.jpg",
+            "country": "United Arab Emirates"
+        },
+        {
+            "name": "Anish Agarwal",
+            "bio": "Anish is currenty doing his bachelors in engineering in BITS Pilani, Dubai Campus. He is planning to masters in computer science. He is interested in building mobile applications and provide services through them. He has won an intra-university business challenge with an idea revolving around web services and mobile apps.",
+            "facebook": "anish0705",
+            "photo": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/46636_489948069306_3675800_n.jpg",
+            "country": "United Arab Emirates"
+        }
+    ]
+}
