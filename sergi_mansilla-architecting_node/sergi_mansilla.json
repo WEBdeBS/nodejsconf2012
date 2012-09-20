@@ -1,5 +1,5 @@
 {
-    "title": "Architecting big node applications",
+    "title": "Big app design in Node.js",
     "abstract": "Designing the code of a large application in production and scaling up to thousands of users while doing it all in Node.js is a challenge that no developer should face alone.  \n\nI will discuss how we have developed a highly decoupled, plugin-based architecture and a decentralized infrastructure for Cloud9 IDE, along with the technologies we've developed and the difficulties we faced in order to build the largest Node.js application that exists in production. And of course, you can expect lots of tips and tricks that will delight any JavaScript developer. \n\nIf you are serious about writing Node.js applications you don't want to miss this talk!",
     "speaker" : {
         "name": "Sergi Mansilla",
