@@ -1,0 +1,13 @@
+{
+    "title": "Building a multi-protocol broker for the Internet of Things using nodejs",
+    "abstract": "Have you ever wondered how to interconnect your apps with physical things? Have you ever felt that the request/response pattern of HTTP is not enough? What about a binary protocol?\nIn this talk you will discover the internal of the open source QEST broker, a nodejs-based broker for the Internet of Things that implements a classic publish/subscribe pattern, while making it accessible from HTTP and MQTT, an ultra-fast binary protocol.",
+    "speaker" : {
+      "name": "Matteo Collina",
+      "bio": "I’m a software engineer with a passion for coding, distributed architecture and agile methodologies. I’ve worked across a wide range of technologies (Java, Ruby, Javascript, Node.js) applying them to various industries (bank, turism, real estate). Last year I enrolled in a Ph.D. program with a project on operation transformation, the real time web, and the Internet of Things.",
+      "twitter": "matteocollina",
+      "blog": "matteocollina.com",
+      "photo": "http://gravatar.com/avatar/c3fc7370bc0951fba944b7b8cac5b9cc?s=200",
+      "slideshare": "matteocollina",
+      "country": "Italy"
+    }
+}
