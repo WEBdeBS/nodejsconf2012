@@ -1,0 +1,13 @@
+{
+    title: "Faster than C? Parsing Node.js Streams!",
+    abstract: "In 2010 I wrote the first MySQL driver for node.js. I did it in pure JavaScript. It was fast. It was fun.\n\nA few month later, node addons using libmysql showed up in npm. They were much faster. It sucked.\n\nIn 2012 I had enough and went back to to the drawing board resulting in a much faster parser.\n\nThis talk will introduce you to the art of high performance binary stream parsing in node.js.",
+    speaker : {
+        name: "Felix Geisendörfer",
+        bio: "Felix Geisendörfer is a node.js core developer and has experienced it's strength and shortcomings first-hand while building transloadit.com. When not event-looping, he loves going street unicycling and watching squirrels.",
+        twitter: "felixge",
+        blog: "http://debuggable.com/",
+        photo: "http://felixge.s3.amazonaws.com/11/felix_geisendoerfer.jpg",
+        slideshare: "http://felixge.de/speaking",
+        country: "Germany"
+    }
+}
