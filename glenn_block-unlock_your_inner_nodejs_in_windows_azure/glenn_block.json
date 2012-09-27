@@ -1,0 +1,13 @@
+{
+    title: "Unlock your Inner Node.js in the Cloud with Windows Azure",
+    abstract: "If I told you that you can build node.js applications in Windows Azure would you believe me? Come to this session and I’ll show you how. You’ll see how take those existing node apps and easily deploy them to Windows Azure from any platform. You’ll see how you can make yours node apps more robust by leveraging Azure services like storage and service bus, all of which are available in our new “azure” npm module.  You’ll also see how to take advantage of cool tools like socket.io for WebSockets, node-inspector for debugging and Cloud9 for an awesome online development experience.",
+    speaker : {
+        name: "Glenn Block",
+        bio: "I make node.js work in Windows Azure",
+        twitter: "@gblock",
+        blog: "http://codebetter.com/glennblock",
+        photo: "http://files.channel9.msdn.com/thumbnail/fad6a28a-b8e9-4cae-9a51-48536171e0ce.JPG",
+        slideshare: "http://www.slideshare.net/gblock",
+        country: "USA"
+    }
+}
