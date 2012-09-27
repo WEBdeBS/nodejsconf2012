@@ -1,0 +1,13 @@
+{
+    title: "Connect, Express & Co.",
+    abstract: "Every Node.js developer should know about Connect and Express, and about the ecosystem that surrounds these frameworks. In this session Golo Roden discusses internals, explains how Connect and Express relate to each other, and shows off a bunch of interesting features, such as embedding various template engines and optimizing JavaScript and CSS files on the fly.",
+    speaker : {
+        name: "Golo Roden",
+        bio: "Broadcaster of knowledge, web development, Node.js, JavaScript, ASP.NET, C#, code quality, agile methods, creator of Node.js & Co. and ADF.",
+        twitter: "@goloroden",
+        blog: "http://blog.goloroden.de",
+        photo: "https://twimg0-a.akamaihd.net/profile_images/819558960/Golo_Roden.jpg",
+        slideshare: "n/a",
+        country: "Germany"
+    }
+}
