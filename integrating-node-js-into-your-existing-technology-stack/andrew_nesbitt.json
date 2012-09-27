@@ -1,0 +1,13 @@
+{
+    title: "Integrating Node.js into your existing technology stack",
+    abstract: "Lots of companies have started experimenting with Node.js over the past year, but rather than re-writting everything they've integrated it into their existing stack where it fits best. We'll explore where Node has been introduced, how it was integrated and some of the benefits.",
+    speaker : {
+        name: "Andrew Nesbitt",
+        bio: "Full stack web developer",
+        twitter: "teabass",
+        blog: "http://teabass.com/",
+        photo: "https://secure.gravatar.com/avatar/8ddbf811da78bb0daeeb3cacd7cf743f?s=360",
+        slideshare: "http://www.slideshare.net/anesbitt",
+        country: "UK"
+    }
+}
