@@ -1,0 +1,13 @@
+{
+    title: "Debugging Real-Time Apps",
+    abstract: "Using DTrace and mdb to do in-situ and post-mortem debugging of Real-Time web applications are covered in this talk.  Several example applications written in node.js will be examined.  Both incorrect programs (i.e., buggy), and poorly performing programs will be covered.  The talk is aimed at developers who need to have better visibility into what their applications are doing.",
+    speaker : {
+        name: "Max Bruning",
+        bio: "Max Bruning has worked in training and engineering for Joyent since 2010.  He has been using DTrace and mdb for many years, mostly to troubleshoot kernel problems.  With Joyent, he was one of three engineers who ported KVM from Linux to Joyent's SmartOS.  He has also written device drivers, and teaches various courses on operating system internals and related topics.",
+        twitter: "mrbruning",
+        blog: "mbruning.blogspot.com",
+        photo: "",
+        slideshare: "",
+        country: "Switerland"
+    }
+}
