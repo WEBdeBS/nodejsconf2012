@@ -1,0 +1,13 @@
+{
+    title: "Performance Profiling in Node.js",
+    abstract: "Today's applications rely on all types of APIs, databases and services, at the same time achieving real-time experience for their users. And Node.js is just perfect for this. But how to make sure that application is fast and how to locate performance bottlenecks, i.e. slow API calls, CPU hot spots, etc.? Where to start and what tools to use? I'll try to answer these questions along with a number of demos.",
+    speaker : {
+        name: "Dmitri Melikyan",
+        bio: "A programmer involved in a few technology startups as a founder, engineer and investor. Creator of Nodetime",
+        twitter: "dmitrimelikyan",
+        blog: "http://nodetime.com/blog",
+        photo: "http://en.gravatar.com/dmelikyan",
+        slideshare: "",
+        country: "Germany"
+    }
+}
