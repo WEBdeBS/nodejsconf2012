@@ -1,6 +1,6 @@
 {
     title: "Why I Hate nodejs",
-    abstract: "There's one thing developers love, it's knowing better than conventional wisdom, but conventional wisdom is conventional for a reason: that works. The talk will show the bad side of nodejs from both architectural and developer perspective. Starting from the insane idea of using Javascript in a server enviroment the audience will be lead to the bright side of truth beyond the scalability's lie of nodejs through a collection of spaghetti code and a broken unix-way. Rotten tomatoes  are not included.",
+    abstract: "There's one thing developers love, it's knowing better than conventional wisdom, but conventional wisdom is conventional for a reason: that works. The talk will show the bad side of nodejs from both architectural and developer perspective. Starting from the insane idea of using Javascript in a server enviroment the audience will be lead to the bright side of truth beyond the scalability's mith of nodejs through a collection of spaghetti code and a broken unix-way. Rotten tomatoes  are not included.",
     speaker : {
         name: "Sam Reghenzi",
         bio: "Nerdy corporate drone. Java Architect. Try to be a clean coder. Wanna be bioinformatics / machine learning / natural language processing / python hacker ( http://it.linkedin.com/in/sammyrulez ) ",
