@@ -1,0 +1,13 @@
+{
+    title: "algebra: a brand new npm package.",
+    abstract: "My adventure as an npmjs.org contributor, developing my math lib https://npmjs.org/package/algebra",
+    speaker : {
+        name: "Gianluca Casati",
+        bio: "Italian mathematician, working as an IT consultant at Matrix s.r.l. (Milan).",
+        twitter: "g14llluca",
+        blog: "http://perl-node-interface.blogspot.com",
+        photo: "http://www.gravatar.com/avatar/e8b1967a7daac7e79352cd9447567e09.png",
+        slideshare: "http://www.slideshare.net/casatigianluca",
+        country: "Italy"
+    }
+}
