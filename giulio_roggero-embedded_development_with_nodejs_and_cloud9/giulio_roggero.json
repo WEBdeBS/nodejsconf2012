@@ -1,0 +1,15 @@
+{
+    "title": "Embedded development with Node.js and Cloud9",
+    "abstract": "Write software in embedded world is not an easy task. Custom libraries, keychain compilers and remote debuggers are high entry barriers. Next-generation boards offer the support to Node.js! This simplify a lot the task of controlling board I/O.\n\nIn this session I'll show you how to control the I/O of a Beaglebone board (the TI open development board based on Cortex A8 - http://beagleboard.org/bone) using just JavaScript! We will see how to code in Node.js from Web to I/O control using the Cloud9 editor hosted by the board.\n\nRemember to bring with you a laptop or a mobile device to turn on/off leds attacched to the board at the end of the session!",
+    "youtube":[{"title":"Example of beagleboard and cloud","url":"http://youtu.be/47NL_hX1E_c"},{"title":"youSCADA and Beagleboard","url":"http://youtu.be/mGw7nOq-hW0"},{"title":"beagleboard host a websoacket server and turn on/off a led","url":"http://youtu.be/CF-zm3bRjWg"}],
+    "link":"http://isolasoftware.it/tag/nodejs/",
+    "speaker" : {
+        "name": "Giulio Roggero",
+        "bio": "I'm CIO at Intre, a company with the mission to connect the real World to the Internet. I've experience on SCADA, HMI and Cloud systems. Since 2006 I advocate that Web technologies will be adopted not only for web sites. Now, with HTML5 and other great technologies like Node.js this is becoming a reality! ... and I'm an happy developer!!!",
+        "twitter": "@giulioroggero",
+        "blog": "http://www.isolasoftware.it",
+        "photo": "http://www.gravatar.com/avatar/bbfd852490e67cad5288fcf57a02907e.png",
+        "slideshare": "http://www.slideshare.net/GiulioRoggero",
+        "country": "Italy"
+    }
+}
